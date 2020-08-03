@@ -1,2 +1,2 @@
 # HackerRank-For-Loop
- Hacker Rank For Loop Question Solved
+ HackerRank For Loop Question Solved
